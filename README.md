@@ -12,7 +12,6 @@
   - Python Modules:
       - splinter
       - BeautifulSoup
-      - matplotlib.pyplot
       - pandas
 
 ---
@@ -23,4 +22,4 @@
 ---
 :pencil2:
 **CSV OUTPUT:**
-  - /Mars_Data/mars_data.csv
+  - /Output/kansascity_craigslist_computer_parts.csv
