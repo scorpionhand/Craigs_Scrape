@@ -4,6 +4,7 @@
 :open_file_folder:
 **Analysis Files**
   - Craigs_Computer_Parts.ipynb
+  - Craigs_Computers_Daryn.ipynb
 
 ---
 :wrench:
@@ -23,3 +24,4 @@
 :pencil2:
 **CSV OUTPUT:**
   - /Output/kansascity_craigslist_computer_parts.csv
+  - /Output/craigs_computer_data.csv
