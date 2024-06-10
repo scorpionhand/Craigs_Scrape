@@ -5,6 +5,7 @@
 **Analysis Files**
   - Craigs_Computer_Parts.ipynb
   - Craigs_Computers_Daryn.ipynb
+  - Craigs_Electronics.ipynb
 
 ---
 :wrench:
@@ -19,9 +20,12 @@
 :globe_with_meridians:
 **Data sources:**
   - 'https://kansascity.craigslist.org/search/syp#search=1~gallery~0~0'
+  - "https://kansascity.craigslist.org/search/ela#search=1~gallery~0~0"
+  - "https://kansascity.craigslist.org/search/sya"
 
 ---
 :pencil2:
 **CSV OUTPUT:**
   - /Output/kansascity_craigslist_computer_parts.csv
   - /Output/craigs_computer_data.csv
+  - /craiglist_electronics.csv
