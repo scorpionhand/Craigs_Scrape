@@ -35,3 +35,4 @@
 **PostgreSQL:**
   - schema.sql
   - import_data.sql
+  - /Output/Postgres CSV Output.csv
