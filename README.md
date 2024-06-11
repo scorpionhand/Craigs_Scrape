@@ -29,3 +29,9 @@
   - /Output/kansascity_craigslist_computer_parts.csv
   - /Output/craigs_computer_data.csv
   - /craiglist_electronics.csv
+
+---
+:memo:
+**PostgreSQL:**
+  - schema.sql
+  - import_data.sql
